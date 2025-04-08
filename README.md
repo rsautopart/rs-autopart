@@ -2,7 +2,7 @@
 
 ## 🔗 Live Site
 
-Visit the site at: [www.rs-autopart.com](https://www.rs-autopart.com)
+Visit the site at: [https://rs-autopart.com/](https://rs-autopart.com/)
 
 ## 🚀 Deployment
 
